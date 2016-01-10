@@ -138,4 +138,7 @@ ggplot(averagedActivityDataImputed, aes(interval, steps)) +
 ```
 
 ![plot of chunk unnamed-chunk-15](figure/unnamed-chunk-15.png) 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 65aa5203957b59df97deeaa9bcb9769a81993607
